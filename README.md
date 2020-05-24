@@ -4,8 +4,8 @@ https://adityabhatnagar2103.github.io/D3-challenge/
 
 
 # D3 Homework - Data Journalism and D3
-Newsroom
-![](Images/Printing Press.gif)
+
+![](Images/Printing%20Press.gif)
 
 
 # Background
