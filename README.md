@@ -18,6 +18,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 # Task
 Core Assignment: D3 Dabbler (Required Assignment)
+
 ![](Images/4-scatter.jpg)
 
 You need to create a scatter plot between two of the data variables such as Healthcare vs. Poverty or Smokers vs. Age.
